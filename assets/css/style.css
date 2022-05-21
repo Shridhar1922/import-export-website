@@ -307,9 +307,10 @@ button {
   color: #fff;
 }
 .page-header-section {
-  background: url(../img/about/about-banner.jpg);
+  background: url(../img/banner-img/contact-banner.jpg);
   background-size: cover;
   background-position: center center;
+  padding: 100px 0px !important;
 }
 .page-header-section .overlay {
   background: #32486a;
@@ -881,7 +882,8 @@ button {
 .about-section p {
   margin-bottom: 20px;
 }
-.about-section .accent-button:hover {
+.about-section .accent-button:hover,
+.accent-button:hover {
   color: #fff;
   background: #02225b;
 }
