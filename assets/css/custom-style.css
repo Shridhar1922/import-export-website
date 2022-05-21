@@ -10,6 +10,35 @@
     padding-top: 60px;
 }
 
+.footer-section .single-footer-widget .social-links li {
+    display: inline-block;
+    margin-right: 8px;
+    background: #fff;
+    color: #02225b;
+    /* padding: 8px 10px; */
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+}
+.single-contact-details i{
+    color: #2e7eed;
+}
+.service-banner{
+    background: url(../img/services/banner.jpg) !important;
+} 
+.contact-banner{
+    background: url(../img/contact-banner.jpg) !important;
+}
+.footer-section .single-footer-widget .social-links li a {
+    color: #02225b;
+    padding: 0 !important;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
 
 .product-list .product-box {
     position: relative;
