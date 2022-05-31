@@ -84,5 +84,10 @@
         </div>
     </div>
 </section>
+
+<script>
+$(".s_menu").removeClass("active");
+$(".contact").addClass("active")
+</script>
 <?php include('include/footer.php'); ?>
 <?php include('include/js-files.php'); ?>

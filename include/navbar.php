@@ -7,13 +7,13 @@
                         <li>
                             <a href="tel:+1234567890">
                                 <i class="icofont-phone"></i>
-                                +1234567890
+                                +918850923640
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <i class="icofont-envelope"></i>
-                                <span class="__cf_email__">shramuk.overseas242gmail.com</span>
+                                <span class="__cf_email__">shashikant29@shramukoverseas.net</span>
                             </a>
                         </li>
                         <li>
@@ -36,9 +36,9 @@
     <div class="header-wrapper">
         <div class="container">
             <div class="main-menu-wrapper">
-                <a href="index.html" class="logo">
-                    <!-- <img src="assets/img/logo.svg" alt=""> -->
-                    <b>Logo</b>
+                <a href="index" class="logo">
+                    <img src="assets/img/new-logo.png" alt="" height="60px">
+                    <!-- <b>Logo</b> -->
                 </a>
                 <button type="button" class="opened-menu">
                     <span></span>
@@ -51,11 +51,11 @@
                         <img src="assets/img/closed.svg" class="closed-icon" alt="closed">
                     </button>
                     <ul class="menu">
-                        <li class="menu-item"><a href="index">Home</a></li>
-                        <li class="menu-item"><a href="about">About</a></li>
-                        <li class="menu-item"><a href="services">Services</a></li>
-                        <li class="menu-item"><a href="products">Products</a></li>
-                        <li class="menu-item"><a href="contact">Contact</a></li>
+                        <li class="menu-item"><a href="index" class="s_menu home">Home</a></li>
+                        <li class="menu-item"><a href="about" class="s_menu about">About</a></li>
+                        <li class="menu-item"><a href="services" class="s_menu services">Services</a></li>
+                        <li class="menu-item"><a href="products" class="s_menu products">Products</a></li>
+                        <li class="menu-item"><a href="contact" class="s_menu contact">Contact</a></li>
                     </ul>
                     <div class="mobile-menu-footer">
                         <ul class="info-list">

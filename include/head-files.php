@@ -19,7 +19,8 @@
     <link rel="stylesheet" href="assets/css/vendor-css/lity.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/custom-style.css">
-
+    <link href="assets/css/aos.css" rel="stylesheet">
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>

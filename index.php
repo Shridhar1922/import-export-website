@@ -132,16 +132,13 @@
                 <div class="overlay"></div>
                 <div class="bg"></div>
                 <div class="details">
-                    <h1>Heading 1</h1>
+                    <h1 data-aos="fade-right" data-aos-easing="linear" data-aos-duration="800"><span
+                            style="font-size: 26px;color: #63c405;">Welcome To</span></br>
+                        SHRAMUK OVERSEAS</h1>
                     <p style="opacity: 1;">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Integer lacinia dui lectus. Donec scelerisque ipsum
-                        diam, ac mattis orci pellentesque eget.
+                        The Name itself describe belived in hard work, loyal.
                     </p>
-                    <a href="#" class="primary-button accent-button">
-                        View More
-                        <i class="icofont-double-right"></i>
-                    </a>
+
                 </div>
                 <!-- <div class="illustration">
             <div class="inner"></div>
@@ -184,7 +181,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 section-title-wrap">
-                <h1>Our Services</h1>
+                <h1 class="animated-twin-lines">Our Services</h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt Lorem
                     ipsum dolor sit amet, consectetur adipiscing elit.
@@ -192,7 +189,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="500">
                 <div class="single-service">
                     <img class="service-shape" src="assets/img/service-shape.svg" alt="">
                     <img class="service-shape-bottom" src="assets/img/service-shape.svg" alt="">
@@ -207,7 +204,7 @@
                     <a href="#">Read more <i class="icofont-double-right"></i></a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1000">
                 <div class="single-service">
                     <img class="service-shape" src="assets/img/service-shape.svg" alt="">
                     <img class="service-shape-bottom" src="assets/img/service-shape.svg" alt="">
@@ -222,7 +219,7 @@
                     <a href="#">Read more <i class="icofont-double-right"></i></a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-4 col-md-6 " data-aos="fade-up" data-aos-duration="1500">
                 <div class="single-service">
                     <img class="service-shape" src="assets/img/service-shape.svg" alt="">
                     <img class="service-shape-bottom" src="assets/img/service-shape.svg" alt="">
@@ -243,7 +240,8 @@
 <section class="about-section section-gap offwhite-bg">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6 col-md-12 about-section-left">
+            <div class="col-lg-6 col-md-12 about-section-left" data-aos="fade-right" data-aos-offset="100"
+                data-aos-easing="ease-in-sine">
                 <img src="assets/img/realistic-import-export-infographic.webp" alt="">
                 <!-- <div class="bottom-txt d-flex">
                      <span>38+</span>
@@ -251,18 +249,17 @@
                      Experience</h4>
                      </div> -->
             </div>
-            <div class="col-lg-6 col-md-12 about-section-right">
+            <div class="col-lg-6 col-md-12 about-section-right " data-aos="fade-left" data-aos-offset="100"
+                data-aos-easing="ease-in-sine">
                 <h6>About Us</h6>
                 <h1>We Provide the best Services for you</h1>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
-                </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua.
-                </p>
-                <a href="about.html" class="primary-button accent-button">
+                <p class="text-justify mb-40">
+                    Shramuk Overseas is working in the areas of merchant import and export in India. Though there is no
+                    limitation for what we trade. Our main aim is to bring all Indian specialities, cultuer, taste,
+                    tradtion to the international market. Over the centuries, India is famous for certain specialities
+                    like Dry Fruits, Spices, Textile, hadicrafts, and other agricultural products and many more things.
+                    We are bringing all of them to our International customers.</p>
+                <a href="about" class="dt-sc-button   medium   filled fully-rounded-corner  filled with-shadow">
                     Read More
                     <i class="icofont-double-right"></i>
                 </a>
@@ -274,14 +271,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 section-title-wrap">
-                <h1>Our Products</h1>
+                <h1 class="animated-twin-lines">Our Products</h1>
 
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
-                    <a href="products.html#spices" class="photo">
+                    <a href="products#spices" class="photo">
                         <img src="./assets/img/products/spices.jpg" height="100%">
                         <h4 class="header">Spices </span></h4>
                     </a>
@@ -290,7 +287,7 @@
             </div>
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
-                    <a href="products.html#dry-fruits" class="photo">
+                    <a href="products#dry-fruits" class="photo">
                         <img src="./assets/img/banner-img/banner.jpg" height="100%">
                         <h4 class="header">Dry Fruits </span></h4>
                     </a>
@@ -299,7 +296,7 @@
             </div>
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
-                    <a href="products.html#food-stuff" class="photo">
+                    <a href="products#food-stuff" class="photo">
                         <img src="./assets/img/products/food-stuff.jpg" height="100%">
                         <h4 class="header">Food Stuff </span></h4>
                     </a>
@@ -308,7 +305,7 @@
             </div>
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
-                    <a href="products.html#pluses" class="photo">
+                    <a href="products#pluses" class="photo">
                         <img src="./assets/img/products/pluses.jpg" height="100%">
                         <h4 class="header">Pulses </span></h4>
                     </a>
@@ -316,8 +313,8 @@
 
             </div>
         </div>
-        <div class="text-center">
-            <a href="products.html" class="primary-button accent-button">
+        <div class="text-center" data-aos="zoom-out-up">
+            <a href="products" class="dt-sc-button   medium   filled fully-rounded-corner  filled with-shadow">
                 View More
                 <i class="icofont-double-right"></i>
             </a>
@@ -354,5 +351,10 @@
     </div>
 </section>
 
+
+<script>
+$(".s_menu").removeClass("active");
+$(".home").addClass("active")
+</script>
 <?php include('include/footer.php'); ?>
 <?php include('include/js-files.php'); ?>

@@ -3,13 +3,12 @@
     <div class="container relative">
         <div class="row">
             <div class="col-lg-4 col-md-6 single-footer-widget">
-                <a href="#" style="background: #fff;padding: 10px 50px;">
-                    <b>Logo</b>
+                <a href="#">
+                    <img src="assets/img/logo.png" height="80px">
                 </a>
-                <p class="about-us">
-                    Lorem ipsum dolor sit amet, consectetur adipis elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua.
-                </p>
+                <!-- <p class="about-us">
+                    Lorem ipsum dolor sit amet, consectetur adipis elit.
+                </p> -->
                 <ul class="social-links">
                     <li><a href="#"><i class="icofont-facebook"></i></a></li>
                     <li><a href="#"><i class="icofont-twitter"></i></a></li>
@@ -20,9 +19,9 @@
             <div class="col-lg-2 col-md-6 single-footer-widget pl-30">
                 <h4 class="widget-title">Quick Link</h4>
                 <ul>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="products.html">Products</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="about">About Us</a></li>
+                    <li><a href="products">Products</a></li>
+                    <li><a href="contact">Contact Us</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 single-footer-widget">
@@ -45,13 +44,13 @@
                     <div class="icon-wrap">
                         <i class="icofont-phone"></i>
                     </div>
-                    <a href="#">+1234567890</a>
+                    <a href="#">+918850923640 / +66910286410</a>
                 </div>
                 <div class="d-flex">
                     <div class="icon-wrap">
                         <i class="icofont-envelope"></i>
                     </div>
-                    <a href="#"><span class="__cf_email__">shramuk.overseas242gmail.com</span></a>
+                    <a href="#"><span class="__cf_email__">shashikant29@shramukoverseas.net</span></a>
                 </div>
             </div>
         </div>
