@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content=" width=device-width,initial-scale=1maximum-scale=1,user-scalable=0,minimal-ui">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="keywords" content="">
     <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.png" /> -->

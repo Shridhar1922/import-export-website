@@ -1,4 +1,4 @@
-<a href="//api.whatsapp.com/send?phone=918850923640&text=WHATEVER_LINK_OR_TEXT_YOU_WANT_TO_SEND" class=" whatsapp"
+<a href="//api.whatsapp.com/send?phone=918850923640&text=I'm interested in your services" class=" whatsapp"
     aria-label="Whatsapp" target="_blank">
     <i class="icofont-brand-whatsapp"></i>
 </a>

@@ -131,6 +131,7 @@ button {
 }
 .section-gap {
   padding: 100px 0;
+  overflow: hidden;
 }
 .section-gap-top {
   padding-top: 100px;

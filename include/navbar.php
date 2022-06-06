@@ -5,21 +5,28 @@
                 <div class="col-md-9 menutop-left">
                     <ul class="d-flex justify-content-between">
                         <li>
-                            <a href="tel:+1234567890">
+                            <a href="tel:+918850923640">
                                 <i class="icofont-phone"></i>
                                 +918850923640
                             </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="icofont-envelope"></i>
-                                <span class="__cf_email__">shashikant29@shramukoverseas.net</span>
+|
+                            <a href="tel:+66910286410">
+                                <i class="icofont-phone"></i>
+                                +66910286410
                             </a>
                         </li>
                         <li>
-                            <i class="icofont-google-map"></i>
-                            14 New Digital Street, Pune, Maharashtra, India.
+                            <a href="mailto:info@shramukoverseas.net">
+                                <i class="icofont-envelope"></i>
+                                <span class="__cf_email__">info@shramukoverseas.net</span>
+                            </a>
+                            |
+                            <a  href="mailto:shrikant@shramukoverseas.net">
+                                    <i class="icofont-envelope"></i>
+                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                                </a>
                         </li>
+                        
                     </ul>
                 </div>
                 <div class="col-md-3 menutop-right">
@@ -60,21 +67,28 @@
                     <div class="mobile-menu-footer">
                         <ul class="info-list">
                             <li>
-                                <a href="tel:+1234567890">
-                                    <i class="icofont-phone"></i>
-                                    +1234567890
-                                </a>
+                            <a href="tel:+918850923640">
+                                <i class="icofont-phone"></i>
+                                +918850923640
+                            </a>
+</li><li>
+                            <a href="tel:+66910286410">
+                                <i class="icofont-phone"></i>
+                                +66910286410
+                            </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a  href="mailto:info@shramukoverseas.net">
                                     <i class="icofont-envelope"></i>
-                                    <span class="__cf_email__">shramuk.overseas242gmail.com</span>
+                                    <span class="__cf_email__">info@shramukoverseas.net</span>
                                 </a>
+                               
                             </li>
-                            <li>
-                                <i class="icofont-google-map"></i>
-                                14 New Digital Street, Pune, Maharashtra, India. .
-                            </li>
+                            <li> <a  href="mailto:shrikant@shramukoverseas.net">
+                                    <i class="icofont-envelope"></i>
+                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                                </a></li>
+                            
                         </ul>
                         <ul class="social-links d-flex">
                             <li><a href="#"><i class="icofont-facebook"></i></a></li>

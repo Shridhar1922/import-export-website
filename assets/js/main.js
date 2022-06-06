@@ -226,49 +226,49 @@
     // Contact Form
     // ------------------------------------------------------------------------------ //
 
-    var submitContact = $("#submit-message"),
-        message = $("#msg");
+    // var submitContact = $("#submit-message"),
+    //     message = $("#msg");
 
-    submitContact.on("click", function (e) {
-        e.preventDefault();
+    // submitContact.on("click", function (e) {
+    //     e.preventDefault();
 
-        var $this = $(this);
+    //     var $this = $(this);
 
-        $.ajax({
-            type: "POST",
-            url: "mail.php",
-            dataType: "json",
-            cache: false,
-            data: $("#contact-form").serialize(),
-            success: function (data) {
-                if (data.info !== "error") {
-                    $this
-                        .parents("form")
-                        .find("input[type=text],input[type=email],textarea,select")
-                        .filter(":visible")
-                        .val("");
-                    message
-                        .hide()
-                        .removeClass("success")
-                        .removeClass("error")
-                        .addClass("success")
-                        .html(data.msg)
-                        .fadeIn("slow")
-                        .delay(1000)
-                        .fadeOut("slow");
-                } else {
-                    message
-                        .hide()
-                        .removeClass("success")
-                        .removeClass("error")
-                        .addClass("error")
-                        .html(data.msg)
-                        .fadeIn("slow")
-                        .delay(1000)
-                        .fadeOut("slow");
-                }
-            }
-        });
-    });
+    //     $.ajax({
+    //         type: "POST",
+    //         url: "mail.php",
+    //         dataType: "json",
+    //         cache: false,
+    //         data: $("#contact-form").serialize(),
+    //         success: function (data) {
+    //             if (data.info !== "error") {
+    //                 $this
+    //                     .parents("form")
+    //                     .find("input[type=text],input[type=email],textarea,select")
+    //                     .filter(":visible")
+    //                     .val("");
+    //                 message
+    //                     .hide()
+    //                     .removeClass("success")
+    //                     .removeClass("error")
+    //                     .addClass("success")
+    //                     .html(data.msg)
+    //                     .fadeIn("slow")
+    //                     .delay(1000)
+    //                     .fadeOut("slow");
+    //             } else {
+    //                 message
+    //                     .hide()
+    //                     .removeClass("success")
+    //                     .removeClass("error")
+    //                     .addClass("error")
+    //                     .html(data.msg)
+    //                     .fadeIn("slow")
+    //                     .delay(1000)
+    //                     .fadeOut("slow");
+    //             }
+    //         }
+    //     });
+    // });
 
 })(jQuery);

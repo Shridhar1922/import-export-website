@@ -30,6 +30,9 @@
   width: 35px;
   height: 35px;
 }
+.single-contact-details{
+  height: 100%;
+}
 .single-contact-details i {
   color: #63c405;
 }
@@ -504,4 +507,48 @@ padding: 15px 1.5rem;
   border-radius: 0px 0px;
   /* left: 90px; */
   right: -3px;
+}
+
+.mr-5px{
+  margin-right:5px;
+}
+.ml-5px{
+  margin-left:5px;
+}
+
+
+@media (max-width: 600px){
+  .carousel-item .slide-box.s1{
+    background-position: right;
+  }
+  .carousel-item .bg{
+    width: 90%;
+  }
+  .carousel-item .details{
+    padding: 5rem 0rem 0rem 4rem !important;
+  }
+
+
+  .management-item{
+    margin-bottom: 15px;
+  }
+  .mngmt-id{
+    height: 360px;
+  }
+  .p-list,.vision-mission-box{
+    margin-bottom: 20px;
+  }
+  .founder-stmt{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .founder-stmt::before{
+    left: 0;
+  }
+  .founder-stmt::after{
+    right: 0;
+  }
+  .founder-name{
+    padding:15px 0px;
+  }
 }

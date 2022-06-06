@@ -19,20 +19,24 @@
                 <div class="single-contact-details text-center">
                     <i class="icofont-envelope-open"></i>
                     <h4>Email Address</h4>
-                    <a href="#">
-                        <span class="__cf_email__">shramuk.overseas242gmail.com</span>
-                    </a>
-                    <a href="#">
-                        <span class="__cf_email__">shramuk.overseas242gmail.com</span>
-                    </a>
+                   
+                                <a  href="mailto:info@shramukoverseas.net">
+                                   
+                                    <span class="__cf_email__">info@shramukoverseas.net</span>
+                                </a>
+                               
+                            <a  href="mailto:shrikant@shramukoverseas.net">
+                                   
+                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                                </a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
                 <div class="single-contact-details text-center">
                     <i class="icofont-ui-dial-phone"></i>
                     <h4>Phone Number</h4>
-                    <a href="tel: +1234567890"> +1234567890 </a>
-                    <a href="tel: +1234567890"> +1234567890 </a>
+                    <a href="tel: +918850923640"> +918850923640 </a>
+                    <a href="tel: +66910286410"> +66910286410 </a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
@@ -40,8 +44,8 @@
                     <i class="icofont-ui-map"></i>
                     <h4>Office Address</h4>
                     <p>
-                        14 New Digital Street, Pune,<br />
-                        Maharashtra, India.
+                    LIG building no 32, Tenament 5,<br />
+                    sector 10 Nerul Navi Mumbai,<br/> West Maharashtra India 400706.
                     </p>
                 </div>
             </div>
@@ -54,13 +58,13 @@
         <div class="row justify-content-between align-items-center">
             <div class="col-lg-6 col-md-12 contact-form-left">
                 <h1>Get In Touch</h1>
-                <form class="row contact-form-wrap" id="contact-form" action="#">
+                <form class="row contact-form-wrap" id="contact-form" method="post" action="M_Contactus.php">
                     <div class="col-md-6">
                         <input name="name" id="name" class="form-control" type="text" placeholder="Name*"
                             onfocus="this.placeholder=''" onblur="this.placeholder='Name*'" />
                     </div>
                     <div class="col-md-6">
-                        <input name="mail" id="mail" class="form-control" type="email" placeholder="E-mail*"
+                        <input name="email" id="email" class="form-control" type="email" placeholder="E-mail*"
                             onfocus="this.placeholder=''" onblur="this.placeholder='Email*'" />
                     </div>
                     <div class="col-md-12">
@@ -68,10 +72,10 @@
                             onfocus="this.placeholder=''" onblur="this.placeholder='Subject*'" />
                     </div>
                     <div class="col-md-12">
-                        <textarea name="messege" id="messege" class="form-control" rows="8" placeholder="Message"
+                        <textarea name="message" id="message" class="form-control" rows="8" placeholder="Message"
                             onfocus="this.placeholder=''" onblur="this.placeholder='Message*'"></textarea>
-                        <input type="submit" class="primary-button accent-button" value="Send Message"
-                            id="submit-message" />
+                        <button type="submit" class="primary-button accent-button" value="Send Message"
+                            id="submit-message" >Send Message</button>
                         <div id="msg" class="message"></div>
                     </div>
                 </form>

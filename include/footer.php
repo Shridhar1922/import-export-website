@@ -2,13 +2,11 @@
     <div class="overlay"></div>
     <div class="container relative">
         <div class="row">
-            <div class="col-lg-4 col-md-6 single-footer-widget">
+            <div class="col-lg-3 col-md-6 single-footer-widget">
                 <a href="#">
                     <img src="assets/img/logo.png" height="80px">
                 </a>
-                <!-- <p class="about-us">
-                    Lorem ipsum dolor sit amet, consectetur adipis elit.
-                </p> -->
+                
                 <ul class="social-links">
                     <li><a href="#"><i class="icofont-facebook"></i></a></li>
                     <li><a href="#"><i class="icofont-twitter"></i></a></li>
@@ -25,32 +23,32 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 single-footer-widget">
-                <h4 class="widget-title">Our Services</h4>
-                <ul>
-                    <li><a href="#">Service-1</a>
-                    <li><a href="#">Service-2</a>
-                    <li><a href="#">Service-3</a>
-                </ul>
-            </div>
-            <div class="col-lg-3 col-md-6 single-footer-widget">
-                <h4 class="widget-title">Contact Us</h4>
+                <h4 class="widget-title">Location</h4>
                 <div class="d-flex">
                     <div class="icon-wrap">
                         <i class="icofont-location-pin"></i>
                     </div>
-                    14 New Digital Street, Pune, Maharashtra, India.
+                    LIG building no 32, Tenament 5, sector 10 Nerul Navi Mumbai, West 
+Maharashtra India 400706
                 </div>
+            </div>
+            <div class="col-lg-4 col-md-6 single-footer-widget">
+                <h4 class="widget-title">Contact Us</h4>
+               
                 <div class="d-flex">
                     <div class="icon-wrap">
                         <i class="icofont-phone"></i>
                     </div>
-                    <a href="#">+918850923640 / +66910286410</a>
+                    <a href="tel:+918850923640" class="mr-5px">+918850923640  </a> | <a href="tel:+66910286410" class="ml-5px"> +66910286410</a>
                 </div>
                 <div class="d-flex">
                     <div class="icon-wrap">
                         <i class="icofont-envelope"></i>
                     </div>
-                    <a href="#"><span class="__cf_email__">shashikant29@shramukoverseas.net</span></a>
+                    <div>
+                    <a href="mailto:info@shramukoverseas.net" ><span class="__cf_email__">info@shramukoverseas.net</span></a> 
+                    <a href="mailto:shrikant@shramukoverseas.net" ><span class="__cf_email__">shrikant@shramukoverseas.net</span></a>
+</div>
                 </div>
             </div>
         </div>

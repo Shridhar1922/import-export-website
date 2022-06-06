@@ -41,7 +41,7 @@
             <div class="col-lg-6 col-md-12 info-right founder-content-box">
                 <div class="founder-stmt">
                     <p>An engineer by education, to be precise, Degree holder in Mechanical Engineering.
-                        An owner of SHASHI CHEMOTEX , which is manufactured of detergents & soaps .
+                        An owner of Managing  Director , which is manufactured of detergents & soaps .
                         he is an Active member of Global Import and Export Association.</p>
 
                 </div>
