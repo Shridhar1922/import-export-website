@@ -1,5 +1,5 @@
 .header-section .menutop-wrapper .menutop-right a:hover {
-  background: #63c405;
+  background: #5ab107;
 }
 .section-gap {
   padding: 50px 0px;
@@ -56,6 +56,27 @@
   height: 100%;
 }
 
+.welcome-text{
+  font-size: 26px;color: #63c405;
+}
+.tag-line {
+  color: #ffffff;
+    background: linear-gradient(270deg, #63c405, #001216);
+    padding: 4px 30px 4px 0px;
+    font-size: 12px;
+    border-left: 0px;
+    font-weight: 600;
+    border-radius: 9px;
+    line-height: 30px;
+    text-shadow: 2px 2px #0000008c;
+}
+.tag-line .icofont-globe-alt {
+  font-size: 25px;
+  /* background: #929700; */
+  color: #6ad305;
+  /* padding: 6px; */
+  border-radius: 50%;
+}
 .product-list .product-box {
   position: relative;
   -webkit-border-radius: 10px;

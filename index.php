@@ -133,19 +133,20 @@
                 <div class="bg"></div>
                 <div class="details">
                     <h1 data-aos="fade-right" data-aos-easing="linear" data-aos-duration="800"><span
-                            style="font-size: 26px;color: #63c405;">Welcome To</span></br>
+                            class="welcome-text">Welcome To</span></br>
                         SHRAMUK OVERSEAS</h1>
-                    <p style="opacity: 1;">
-                        The Name itself describe belived in hard work, loyal.
-                    </p>
+                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                        <span class="tag-line"><i class="icofont-globe-alt "></i> Connect The World </span>
+                        <p style="opacity: 1;">
+                            The Name itself describe belived in hard work, loyal.
+                        </p>
+                    </div>
 
                 </div>
-                <!-- <div class="illustration">
-            <div class="inner"></div>
-        </div> -->
+
             </div>
         </div>
-        <div class="carousel-item ">
+        <!-- <div class="carousel-item ">
             <div class="slide-box s2">
                 <div class="overlay"></div>
                 <div class="bg"></div>
@@ -161,11 +162,9 @@
                         <i class="icofont-double-right"></i>
                     </a>
                 </div>
-                <!-- <div class="illustration">
-          <div class="inner"></div>
-      </div> -->
+               
             </div>
-        </div>
+        </div> -->
 
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -177,7 +176,7 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-<section class="services-section section-gap">
+<!-- <section class="services-section section-gap">
     <div class="container">
         <div class="row">
             <div class="col-md-12 section-title-wrap">
@@ -236,7 +235,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="about-section section-gap offwhite-bg">
     <div class="container">
         <div class="row align-items-center">
@@ -252,7 +251,7 @@
             <div class="col-lg-6 col-md-12 about-section-right " data-aos="fade-left" data-aos-offset="100"
                 data-aos-easing="ease-in-sine">
                 <h6>About Us</h6>
-                <h1>We Provide the best Services for you</h1>
+                <h1>We Provide Good Quality Products & Services For You</h1>
                 <p class="text-justify mb-40">
                     Shramuk Overseas is working in the areas of merchant import and export in India. Though there is no
                     limitation for what we trade. Our main aim is to bring all Indian specialities, cultuer, taste,
@@ -321,7 +320,7 @@
         </div>
 </section>
 
-<section class="logos-section relative section-gap">
+<!-- <section class="logos-section relative section-gap">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
@@ -349,7 +348,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <script>

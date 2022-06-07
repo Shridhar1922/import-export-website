@@ -9,7 +9,7 @@
                                 <i class="icofont-phone"></i>
                                 +918850923640
                             </a>
-|
+                            |
                             <a href="tel:+66910286410">
                                 <i class="icofont-phone"></i>
                                 +66910286410
@@ -21,12 +21,12 @@
                                 <span class="__cf_email__">info@shramukoverseas.net</span>
                             </a>
                             |
-                            <a  href="mailto:shrikant@shramukoverseas.net">
-                                    <i class="icofont-envelope"></i>
-                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
-                                </a>
+                            <a href="mailto:shrikant@shramukoverseas.net">
+                                <i class="icofont-envelope"></i>
+                                <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                            </a>
                         </li>
-                        
+
                     </ul>
                 </div>
                 <div class="col-md-3 menutop-right">
@@ -60,35 +60,35 @@
                     <ul class="menu">
                         <li class="menu-item"><a href="index" class="s_menu home">Home</a></li>
                         <li class="menu-item"><a href="about" class="s_menu about">About</a></li>
-                        <li class="menu-item"><a href="services" class="s_menu services">Services</a></li>
                         <li class="menu-item"><a href="products" class="s_menu products">Products</a></li>
                         <li class="menu-item"><a href="contact" class="s_menu contact">Contact</a></li>
                     </ul>
                     <div class="mobile-menu-footer">
                         <ul class="info-list">
                             <li>
-                            <a href="tel:+918850923640">
-                                <i class="icofont-phone"></i>
-                                +918850923640
-                            </a>
-</li><li>
-                            <a href="tel:+66910286410">
-                                <i class="icofont-phone"></i>
-                                +66910286410
-                            </a>
+                                <a href="tel:+918850923640">
+                                    <i class="icofont-phone"></i>
+                                    +918850923640
+                                </a>
                             </li>
                             <li>
-                                <a  href="mailto:info@shramukoverseas.net">
+                                <a href="tel:+66910286410">
+                                    <i class="icofont-phone"></i>
+                                    +66910286410
+                                </a>
+                            </li>
+                            <li>
+                                <a href="mailto:info@shramukoverseas.net">
                                     <i class="icofont-envelope"></i>
                                     <span class="__cf_email__">info@shramukoverseas.net</span>
                                 </a>
-                               
+
                             </li>
-                            <li> <a  href="mailto:shrikant@shramukoverseas.net">
+                            <li> <a href="mailto:shrikant@shramukoverseas.net">
                                     <i class="icofont-envelope"></i>
                                     <span class="__cf_email__">shrikant@shramukoverseas.net</span>
                                 </a></li>
-                            
+
                         </ul>
                         <ul class="social-links d-flex">
                             <li><a href="#"><i class="icofont-facebook"></i></a></li>

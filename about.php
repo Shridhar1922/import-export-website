@@ -41,8 +41,7 @@
             <div class="col-lg-6 col-md-12 info-right founder-content-box">
                 <div class="founder-stmt">
                     <p>An engineer by education, to be precise, Degree holder in Mechanical Engineering.
-                        An owner of Managing  Director , which is manufactured of detergents & soaps .
-                        he is an Active member of Global Import and Export Association.</p>
+                        Managing Director is an Active member of Global Import and Export Association.</p>
 
                 </div>
                 <p class="founder-name"><b>- SHASHIKANT K. UNAVANE</b> (FOUNDER & M.D.)</p>
@@ -55,7 +54,7 @@
         <div class="row align-items-center">
 
             <div class="col-lg-6 col-md-12 info-right" data-aos="fade-right" data-aos-duration="1500">
-                <h1>We Provide the best Services for you</h1>
+                <h1>We Provide Good Quality Products & Services For You</h1>
                 <p class="text-justify">
                     Shramuk Overseas is working in the areas of merchant import and export in India. Though there is no
                     limitation for what we trade. Our main aim is to bring all Indian specialities, cultuer, taste,

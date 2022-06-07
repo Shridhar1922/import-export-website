@@ -19,16 +19,16 @@
                 <div class="single-contact-details text-center">
                     <i class="icofont-envelope-open"></i>
                     <h4>Email Address</h4>
-                   
-                                <a  href="mailto:info@shramukoverseas.net">
-                                   
-                                    <span class="__cf_email__">info@shramukoverseas.net</span>
-                                </a>
-                               
-                            <a  href="mailto:shrikant@shramukoverseas.net">
-                                   
-                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
-                                </a>
+
+                    <a href="mailto:info@shramukoverseas.net">
+
+                        <span class="__cf_email__">info@shramukoverseas.net</span>
+                    </a>
+
+                    <a href="mailto:shrikant@shramukoverseas.net">
+
+                        <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                    </a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
@@ -44,8 +44,8 @@
                     <i class="icofont-ui-map"></i>
                     <h4>Office Address</h4>
                     <p>
-                    LIG building no 32, Tenament 5,<br />
-                    sector 10 Nerul Navi Mumbai,<br/> West Maharashtra India 400706.
+                        LIG building no 32, Tenament 5,<br />
+                        sector 10 Nerul Navi Mumbai,<br /> West Maharashtra India 400706.
                     </p>
                 </div>
             </div>
@@ -75,14 +75,14 @@
                         <textarea name="message" id="message" class="form-control" rows="8" placeholder="Message"
                             onfocus="this.placeholder=''" onblur="this.placeholder='Message*'"></textarea>
                         <button type="submit" class="primary-button accent-button" value="Send Message"
-                            id="submit-message" >Send Message</button>
+                            id="submit-message">Send Message</button>
                         <div id="msg" class="message"></div>
                     </div>
                 </form>
             </div>
             <div class="col-lg-6 col-md-12 contact-form-right">
                 <iframe width="100%" height="440"
-                    src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=27%20Division%20St%2C%20New%20York%2C%20NY%2010002%2C%20USA+(Title)&amp;ie=UTF8&amp;t=&amp;z=10&amp;iwloc=B&amp;output=embed"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.559340051956!2d73.01405146421213!3d19.039129808079487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c30f6f8bfea9%3A0x243a501c06e1a376!2sLIG%20Colony!5e0!3m2!1sen!2sin!4v1654628219223!5m2!1sen!2sin"
                     frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
             </div>
         </div>
