@@ -16,6 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 mb-40">
+
                 <div class="d-flex product-cateogory">
                     <div class="category-item">
                         <a href="#spices">
@@ -47,10 +48,11 @@
 
 
                 </div>
+                <div id="spices"></div>
             </div>
 
             <div class="col-md-12 mb-40">
-                <div class="products-list" id="spices">
+                <div class="products-list">
                     <div class="catrgory-name">
                         <p>Spices</p>
                     </div>
@@ -252,68 +254,93 @@
                     <div class="row">
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Basmati-Rice-Gold.jpg" />
+                                <p>Basmati Rice Gold</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Basmati-Rice-White.jpg" />
+                                <p>Basmati Rice White</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Redmillet-Ragi.jpg" />
+                                <p>Redmillet Ragi</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Maize-Yellow-Zea-Mayas.jpg" />
+                                <p>Maize Yellow Zea Mayas</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/kolam-rice.jpg" />
+                                <p>Kolam Rice</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Kayama-Rice.png" />
+                                <p>Kayama Rice</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Rice-Flakes.jpg" />
+                                <p>Rice Flakes</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/White-Rock-Sugar-Candy.png" />
+                                <p>White Rock Sugar Candy</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/jaggery-cube.jpg" />
+                                <p>Jaggery</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Corn-Flour.jpg" />
+                                <p>Corn Flour</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Coconut-Powder.jpg" />
+                                <p>Coconut Powder</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/food-stuff.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/food-stuff/Bush-Brand-Food-color.jpg" />
+                                <p>Bush Brand Food Color</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/LG-Hing-Lumps.jpg" />
+                                <p>L.G Hing Lumps</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/Gingelly-White.jpeg" />
+                                <p>Gingelly White</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/Poppy-Seed-White.png" />
+                                <p>Poppy Seed White</p>
                             </div>
                         </div>
                     </div>
@@ -326,74 +353,71 @@
                     <div class="catrgory-name">
                         <p>Pluses</p>
                     </div>
+
                     <div class="row">
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/Chana-Dal.jpg" />
+                                <p>Chana Dal</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/moong-dal.jpg" />
+                                <p>Moong Dal</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/toor-dal.png" />
+                                <p>Toor Dal</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/Urad-dal-split.jpg" />
+                                <p>Urad Dal Split</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/masoor-dal.png" />
+                                <p>Masoor Dal </p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/mung-seeds.png" />
+                                <p>Green Moong Whole</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/Chick-Peas.jpg" />
+                                <p>Chick Peas</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/green-peas.jpg" />
+                                <p>Green Peas</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/black-eyed-beans.png" />
+                                <p>Black Eye Beens</p>
                             </div>
                         </div>
                         <div class="col-md-2 col-6">
                             <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
+                                <img src="./assets/img/products/pluses/kala-chana.jpg" />
+                                <p>Kala Chana</p>
                             </div>
                         </div>
-                        <div class="col-md-2 col-6">
-                            <div class="product-box">
-                                <img src="./assets/img/products/pluses.jpg" />
-                                <p>Product Name</p>
-                            </div>
-                        </div>
+
                     </div>
+
                 </div>
             </div>
         </div>

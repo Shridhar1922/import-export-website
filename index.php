@@ -121,7 +121,7 @@
 
 @media only screen and (max-width: 650px) {
     .carousel-item .details {
-        padding: 5rem 0rem 0rem 5rem !important;
+        padding: 5rem 0rem 0rem 3.5rem !important;
     }
 }
 </style>
