@@ -31,6 +31,14 @@
                             <h6>Dry Fruits</h6>
                         </a>
                     </div>
+
+                    <div class="category-item">
+                        <a href="#fruits-vegitables">
+                            <img src="./assets/img/products/Fruits-and-vegitables.jpg" />
+                            <h6>Fruits & Vegitables</h6>
+                        </a>
+                    </div>
+
                     <div class="category-item">
                         <a href="#food-stuff">
                             <img src="./assets/img/products/food-stuff.jpg" />
@@ -242,6 +250,73 @@
                         </div>
 
                     </div>
+                    <div id="fruits-vegitables"></div>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 mb-40">
+                <div class="products-list">
+                    <div class="catrgory-name">
+                        <p>Fruits & Vegitables</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/green-chilli.jpg" />
+                                <p>Green Chili</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/drumstick.jpg" />
+                                <p>Drumstick</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/tomato.jpg" />
+                                <p>Tomatoes</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/lemon.jpg" />
+                                <p>Lemon</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/potatoes.jpg" />
+                                <p>Potatoes</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/red-onion.jpg" />
+                                <p>Red Onion</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/okra.png" />
+                                <p>Okra</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/promogranate.jpg" />
+                                <p>Promogranate</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/fruits-and-vegitables/grapes-green-black.jpg" />
+                                <p>Grapes Green & Black</p>
+                            </div>
+                        </div>
+
+                    </div>
                     <div id="food-stuff"></div>
                 </div>
             </div>
@@ -319,18 +394,8 @@
                                 <p>Coconut Powder</p>
                             </div>
                         </div>
-                        <div class="col-md-2 col-6">
-                            <div class="product-box">
-                                <img src="./assets/img/products/food-stuff/Bush-Brand-Food-color.jpg" />
-                                <p>Bush Brand Food Color</p>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-6">
-                            <div class="product-box">
-                                <img src="./assets/img/products/food-stuff/LG-Hing-Lumps.jpg" />
-                                <p>L.G Hing Lumps</p>
-                            </div>
-                        </div>
+
+
                         <div class="col-md-2 col-6">
                             <div class="product-box">
                                 <img src="./assets/img/products/food-stuff/Gingelly-White.jpeg" />
@@ -341,6 +406,36 @@
                             <div class="product-box">
                                 <img src="./assets/img/products/food-stuff/Poppy-Seed-White.png" />
                                 <p>Poppy Seed White</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/starch.png" />
+                                <p>Starch</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/wheat-flour.jpg" />
+                                <p>Wheat Flour</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/beaking-powder.jpg" />
+                                <p>Beaking Powder</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/baking-soda.jpg" />
+                                <p>Beaking Soda</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-6">
+                            <div class="product-box">
+                                <img src="./assets/img/products/food-stuff/tropiaca-flour.jpg" />
+                                <p>Tropiaca Flour</p>
                             </div>
                         </div>
                     </div>
@@ -427,6 +522,18 @@
 <script>
 $(".s_menu").removeClass("active");
 $(".products").addClass("active")
+
+
+
+$(window).scroll(function() {
+    if ($(window).scrollTop() >= 300) {
+        $('.product-cateogory').addClass('fixed-header');
+
+    } else {
+        $('.product-cateogory').removeClass('fixed-header');
+
+    }
+});
 </script>
 <?php include('include/footer.php'); ?>
 <?php include('include/js-files.php'); ?>

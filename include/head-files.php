@@ -7,7 +7,7 @@
     <meta name="viewport" content=" width=device-width,initial-scale=1maximum-scale=1,user-scalable=0,minimal-ui">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="keywords" content="">
-    <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.png" /> -->
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/new-logo.png" />
     <title>Import-Export Website</title>
     <link
         href="https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"

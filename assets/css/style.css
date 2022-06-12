@@ -343,6 +343,14 @@ button {
     justify-content: flex-start;
     margin-top: 15px;
   }
+
+  .d-flex.product-cateogory{
+    flex-wrap: wrap;
+  }
+  .category-item{
+    width: 30% !important;
+    margin-bottom: 10px;
+  }
 }
 .header-section {
   border: none;
@@ -943,9 +951,16 @@ button {
   background: #32486a;
   opacity: 0.8;
 }
-.logos-section .single-logo-item img {
+/* .logos-section .single-logo-item img {
   margin: 0 auto;
   width: 120px !important;
+} */
+.logos-section .single-logo-item img {
+  margin: 0 auto;
+  /* width: 120px !important; */
+  height: 100px;
+  object-fit: fill;
+  width: auto;
 }
 .whyus-section {
   background: #eef3fc;

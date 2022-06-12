@@ -278,7 +278,7 @@
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
                     <a href="products#spices" class="photo">
-                        <img src="./assets/img/products/spices.jpg" height="100%">
+                        <img src="./assets/img/products/spices.jpg" height="100%" class="no-pad">
                         <h4 class="header">Spices </span></h4>
                     </a>
                 </div>
@@ -296,7 +296,7 @@
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
                     <a href="products#food-stuff" class="photo">
-                        <img src="./assets/img/products/food-stuff.jpg" height="100%">
+                        <img src="./assets/img/products/food-stuff.jpg" height="100%" class="no-pad">
                         <h4 class="header">Food Stuff </span></h4>
                     </a>
                 </div>
@@ -305,7 +305,7 @@
             <div class="product-list item  col-lg-3 col-sm-6 ">
                 <div class="product-box">
                     <a href="products#pluses" class="photo">
-                        <img src="./assets/img/products/pluses.jpg" height="100%">
+                        <img src="./assets/img/products/pluses.jpg" height="100%" class="no-pad">
                         <h4 class="header">Pulses </span></h4>
                     </a>
                 </div>
@@ -320,35 +320,27 @@
         </div>
 </section>
 
-<!-- <section class="logos-section relative section-gap">
+<section class="logos-section relative section-gap">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12 relative">
                 <div class="logo-carousel owl-carousel owl-theme">
                     <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
+                        <img src="assets/img/patners/MSME-Logo.png" alt="">
                     </div>
                     <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
+                        <img src="assets/img/patners/apeda.png" alt="">
                     </div>
                     <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
+                        <img src="assets/img/patners/make-in-india.png" alt="">
                     </div>
-                    <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
-                    </div>
-                    <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
-                    </div>
-                    <div class="single-logo-item">
-                        <img src="assets/img/dummy-logo.png" alt="">
-                    </div>
+
                 </div>
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
 
 <script>
