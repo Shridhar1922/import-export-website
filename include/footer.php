@@ -39,15 +39,15 @@ Maharashtra India 400706
                     <div class="icon-wrap">
                         <i class="icofont-phone"></i>
                     </div>
-                    <a href="tel:+918850923640" class="mr-5px">+918850923640  </a> | <a href="tel:+66910286410" class="ml-5px"> +66910286410</a>
+                    <a href="tel:+918850923640" class="mr-5px">+918850923640  </a> | <a href="tel:+919699622617" class="ml-5px"> +919699622617</a>
                 </div>
                 <div class="d-flex">
                     <div class="icon-wrap">
                         <i class="icofont-envelope"></i>
                     </div>
                     <div>
-                    <a href="mailto:info@shramukoverseas.net" ><span class="__cf_email__">info@shramukoverseas.net</span></a> 
-                    <a href="mailto:shrikant@shramukoverseas.net" ><span class="__cf_email__">shrikant@shramukoverseas.net</span></a>
+                    <a href="mailto:shramuk.overseas24@gmail.com" ><span class="__cf_email__">shramuk.overseas24@gmail.com</span></a> 
+                    <a href="mailto:management@shramukoverseas.com" ><span class="__cf_email__">management@shramukoverseas.com</span></a>
 </div>
                 </div>
             </div>

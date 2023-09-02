@@ -20,14 +20,14 @@
                     <i class="icofont-envelope-open"></i>
                     <h4>Email Address</h4>
 
-                    <a href="mailto:info@shramukoverseas.net">
+                    <a href="mailto:shramuk.overseas24@gmail.com">
 
-                        <span class="__cf_email__">info@shramukoverseas.net</span>
+                        <span class="__cf_email__">shramuk.overseas24@gmail.com</span>
                     </a>
 
-                    <a href="mailto:shrikant@shramukoverseas.net">
+                    <a href="mailto:management@shramukoverseas.com">
 
-                        <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                        <span class="__cf_email__">management@shramukoverseas.com</span>
                     </a>
                 </div>
             </div>
@@ -36,7 +36,8 @@
                     <i class="icofont-ui-dial-phone"></i>
                     <h4>Phone Number</h4>
                     <a href="tel: +918850923640"> +918850923640 </a>
-                    <a href="tel: +66910286410"> +66910286410 </a>
+                    <a href="tel: +919699622617"> +919699622617 </a>
+                    <a href="tel: +919528470736"> +919528470736 </a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
@@ -44,8 +45,8 @@
                     <i class="icofont-ui-map"></i>
                     <h4>Office Address</h4>
                     <p>
-                        LIG building no 32, Tenament 5,<br />
-                        sector 10 Nerul Navi Mumbai,<br /> West Maharashtra India 400706.
+                        LIG Building no.32, Tenament – 5,<br />
+                       sector-10 ,Nerul Navi Mumbai<br /> (West) - 400705.
                     </p>
                 </div>
             </div>
@@ -58,6 +59,7 @@
         <div class="row justify-content-between align-items-center">
             <div class="col-lg-6 col-md-12 contact-form-left">
                 <h1>Get In Touch</h1>
+                <p style="font-weight:600">Feel free to ask any question we are ready to help you <span class="text-color-green">24/7</span> we're here to assist and respond you might have. We look forward to listening from you. </p>
                 <form class="row contact-form-wrap" id="contact-form" method="post" action="M_Contactus.php">
                     <div class="col-md-6">
                         <input name="name" id="name" class="form-control" type="text" placeholder="Name*"

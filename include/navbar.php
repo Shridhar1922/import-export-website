@@ -10,20 +10,20 @@
                                 +918850923640
                             </a>
                             |
-                            <a href="tel:+66910286410">
+                            <a href="tel:+919699622617">
                                 <i class="icofont-phone"></i>
-                                +66910286410
+                                +919699622617
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@shramukoverseas.net">
+                            <a href="mailto:shramuk.overseas24@gmail.com">
                                 <i class="icofont-envelope"></i>
-                                <span class="__cf_email__">info@shramukoverseas.net</span>
+                                <span class="__cf_email__">shramuk.overseas24@gmail.com</span>
                             </a>
                             |
-                            <a href="mailto:shrikant@shramukoverseas.net">
+                            <a href="mailto:management@shramukoverseas.com">
                                 <i class="icofont-envelope"></i>
-                                <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                                <span class="__cf_email__">management@shramukoverseas.com</span>
                             </a>
                         </li>
 
@@ -72,21 +72,21 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="tel:+66910286410">
+                                <a href="tel:+919699622617">
                                     <i class="icofont-phone"></i>
-                                    +66910286410
+                                    +919699622617
                                 </a>
                             </li>
                             <li>
-                                <a href="mailto:info@shramukoverseas.net">
+                                <a href="mailto:shramuk.overseas24@gmail.com">
                                     <i class="icofont-envelope"></i>
-                                    <span class="__cf_email__">info@shramukoverseas.net</span>
+                                    <span class="__cf_email__">shramuk.overseas24@gmail.com</span>
                                 </a>
 
                             </li>
-                            <li> <a href="mailto:shrikant@shramukoverseas.net">
+                            <li> <a href="mailto:management@shramukoverseas.com">
                                     <i class="icofont-envelope"></i>
-                                    <span class="__cf_email__">shrikant@shramukoverseas.net</span>
+                                    <span class="__cf_email__">management@shramukoverseas.com</span>
                                 </a></li>
 
                         </ul>

@@ -8,7 +8,7 @@ if (isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $name = $_POST['name'];
-    $email_to = "info@shramukoverseas.net";
+    $email_to = "shramuk.overseas24@gmail.com";
     $email_subject = "Contact From Shrimukoverseas";
 
     function died($error) {
