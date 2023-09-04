@@ -146,12 +146,11 @@
     // ------------------------------------------------------------------------------ //
 
     $('.testmonial-carousel-wrapper').owlCarousel({
-        loop: true,
-        autoplay: true,
-        margin: 15,
-        dots: true,
-        nav: true,
-        items: 1,
+        items:3,
+//      autoplay:false,
+      margin:30,
+      loop:true,
+      dots:true,
         animateIn: 'fadeIn',
         animateOut: 'fadeOut',
     })

@@ -26,7 +26,7 @@
 }
 
 .carousel-item .slide-box.s2 {
-    background-image: url(./assets/img/banner-img/banner.jpg);
+    background-image: url(./assets/img/banner-img/farm.jpg);
 }
 
 .carousel-item .bg {
@@ -146,25 +146,27 @@
 
             </div>
         </div>
-        <!-- <div class="carousel-item ">
+        <div class="carousel-item ">
             <div class="slide-box s2">
                 <div class="overlay"></div>
                 <div class="bg"></div>
                 <div class="details">
-                    <h1>Heading 2</h1>
+                <h1 data-aos="fade-right" data-aos-easing="linear" data-aos-duration="800"><span
+                            class="welcome-text"> Shramuk Overseas Private Limited</span></br>Small Farms.</br>
+                    Big Ideas.</h1>
+                    <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                   
                     <p style="opacity: 1;">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Integer lacinia dui lectus. Donec scelerisque ipsum
-                        diam, ac mattis orci pellentesque eget.
+                    Shramuk overseas is a company that specializes in exporting agricultural products from
+developing countries to developed ones. We help farmers in less-developed nations sell
+their crops, and we provide these farmers with the tools they need to grow and harvest
+more efficiently.
                     </p>
-                    <a href="#" class="primary-button accent-button">
-                        View More
-                        <i class="icofont-double-right"></i>
-                    </a>
+                    </div>
                 </div>
                
             </div>
-        </div> -->
+        </div>
 
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -319,6 +321,49 @@
             </a>
         </div>
 </section>
+
+<div class="section-padding section-gap offwhite-bg">
+        <div class="container">
+            <div class="row">
+            <div class="col-md-12 section-title-wrap">
+                <h1 class="animated-twin-lines">What People Says</h1>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="owl-carousel testmonial-carousel-wrapper client-testimonial-carousel">
+                        <div class="single-testimonial-item">
+                            <p>We would like to acknowledge your professionalism in our recent dealings with
+you. You responded promptly and arrived on time. You were honest in your
+appraisal of the job, even though this meant no work for you. We thank you for
+
+this.</p>
+                            <h3>Anna Cynthia</h3>
+                        </div>
+                        <div class="single-testimonial-item">
+                            <p>I&#39;ve been using Shramuk Overseas for some time now and I&#39;m very happy with
+the Products. They have a wide variety of products that make my life much
+easier when it comes to farming. The prices are also great so you can&#39;t go wrong
+
+when you choose to start Business here.</p>
+                            <h3>Nikita</h3>
+                        </div>
+                        <div class="single-testimonial-item">
+                            <p>The products&#39; quality is excellent, and the service is excellent with a humble
+gesture in addition to meeting the client&#39;s needs to the fullest extent possible.
+
+Really genuine.</p>
+                            <h3>Margaret Suzanne</h3>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
 
 <section class="logos-section relative section-gap">
     <div class="overlay"></div>
