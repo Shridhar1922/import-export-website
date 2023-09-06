@@ -8,10 +8,10 @@
                 </a>
                 
                 <ul class="social-links">
-                    <li><a href="#"><i class="icofont-facebook"></i></a></li>
-                    <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                    <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                    <li><a href="#"><i class="icofont-linkedin"></i></a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/shramukoverseas"><i class="icofont-facebook"></i></a></li>
+                    <li><a target="_blank" href="https://twitter.com/shramukoversea2?t=vYNfUu0MFJZdPomGYFtOew&s=09"><i class="icofont-twitter"></i></a></li>
+                    <li><a target="_blank" href="https://instagram.com/shramukoverseas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><i class="icofont-instagram"></i></a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/in/shramuk-overseas-81bab5246"><i class="icofont-linkedin"></i></a></li>
                 </ul>
             </div>
             <div class="col-lg-2 col-md-6 single-footer-widget pl-30">
@@ -29,7 +29,7 @@
                         <i class="icofont-location-pin"></i>
                     </div>
                     LIG building no 32, Tenament 5, sector 10 Nerul Navi Mumbai, West 
-Maharashtra India 400706
+Maharashtra India 400705
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 single-footer-widget">

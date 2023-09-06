@@ -31,10 +31,10 @@
                 </div>
                 <div class="col-md-3 menutop-right">
                     <ul class="social-links d-flex justify-content-end">
-                        <li><a href="#"><i class="icofont-facebook"></i></a></li>
-                        <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                        <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                        <li><a href="#"><i class="icofont-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/shramukoverseas"><i class="icofont-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/shramukoversea2?t=vYNfUu0MFJZdPomGYFtOew&s=09"><i class="icofont-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://instagram.com/shramukoverseas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><i class="icofont-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/shramuk-overseas-81bab5246"><i class="icofont-linkedin"></i></a></li>
                     </ul>
                 </div>
             </div>
