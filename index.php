@@ -122,6 +122,8 @@
 @media only screen and (max-width: 650px) {
     .carousel-item .details {
         padding: 5rem 0rem 0rem 3.5rem !important;
+        grid-column: 1/span 2;
+    
     }
 }
 </style>
@@ -136,7 +138,7 @@
                             class="welcome-text">Welcome To</span></br>
                         SHRAMUK OVERSEAS</h1>
                     <div data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-                        <span class="tag-line"><i class="icofont-globe-alt "></i> Connect The World </span>
+                        <span class="tag-line"><i class="icofont-globe-alt "></i> We connecting peoples, cultures & business. </span>
                         <p style="opacity: 1;">
                             The Name itself describe belived in hard work, loyal.
                         </p>

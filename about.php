@@ -1,7 +1,38 @@
 <!-- Header Stared Here -->
 <?php include('include/head-files.php'); ?>
 <?php include('include/navbar.php'); ?>
+<style>
+.f-style{
+    font-style: italic;
+    padding-left: 1.5rem;
+}    
+.certificate1 {
+    height: 400px;
+    margin-bottom: 20px;
+}
 
+.certificate2 {
+    width: 100%;
+    padding: 4px;
+    border: 1px solid lightgrey;
+   object-fit: contain;
+}
+.certificate1 img{
+    border: 1px solid lightgrey;
+    height: 100%;
+    object-fit: contain;
+    padding:  4px;
+}
+@media (max-width: 600px){
+    .certificate1 img{
+        width: 100%;
+        border: none;
+    }
+    .certificate2{
+        border: none;
+    }
+}
+</style>
 <section class="page-header-section section-gap relative">
     <div class="overlay"></div>
     <div class="container">
@@ -22,13 +53,14 @@
             </div>
             <div class="col-lg-8 col-md-12 info-right founder-content-box">
                 <div class="founder-stmt">
-                    <p>An engineer by education, to be precise, Degree holder in Mechanical Engineering.
-                        Managing Director is an Active member of Global Import and Export Association.</p>
+                    <p class="f-style">Shramuk overseas  your gateway to world & your one stop shop for all your needs. & your  Trusted partners for International Needs.We are committed to providing our customers with the best possible services at the most competitive prices</p>
 
                 </div>
-                <p class="founder-name"><b>- SHASHIKANT K. UNAVANE</b> (FOUNDER & M.D.)</p>
+                <p class="f-style mb-0">Founder Desk,</p>
+                <p class="founder-name"><b>SHASHIKANT K. UNAVANE</b> (FOUNDER & M.D.)</p>
             </div>
         </div>
+        
     </div>
 </section>
 <section class="info-section section-gap offwhite-bg">
@@ -67,8 +99,6 @@
     </div>
 </section>
 
-
-
 <section class="faq-section section-gap white-bg">
     <div class="container">
         <div class="row align-items-center">
@@ -86,6 +116,37 @@
             </div>
         </div>
     </div>
+</section>
+
+
+<section class="section-padding section-gap offwhite-bg">
+    <div class="container">
+    <div class="row">
+            <div class="col-md-12 section-title-wrap">
+                <h1 class="animated-twin-lines">Certificates</h1>
+                    
+                </div>
+            </div>
+            
+    <div class="row no-margin-l-r ">
+  
+            <div class="col-lg-4 col-md-12 col-sm-12 text-center certificate1">
+                <img src="./assets/img/certificates/certificate1.jpg" >
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12 text-center certificate1">
+                <img src="./assets/img/certificates/certificate2.jpg" >
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12 text-center certificate1">
+                <img src="./assets/img/certificates/certificate3.jpg" >
+            </div>
+        </div>
+    </div>
+    <div class="row no-margin-l-r ">
+    <div class="offset-lg-3 col-lg-6 col-md-12 col-sm-12 text-center">
+    <img src="./assets/img/certificates/p7.jpg" class="certificate2">
+    </div>
+    </div>
+    
 </section>
 <script>
 $(".about").addClass("active")

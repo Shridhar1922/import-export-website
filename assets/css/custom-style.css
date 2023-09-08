@@ -240,6 +240,7 @@
 .mb-10{
   margin-bottom: 10px;
 }
+
 .mb-40 {
   margin-bottom: 40px;
 }
@@ -430,8 +431,9 @@
 .founder-stmt{
   text-align: justify;
 }
-.founder-name{
-padding: 15px 1.5rem;
+.founder-name {
+  padding: 0 15px 15px 1.5rem;
+  font-style: italic;
 }
 .founder-content-box{
   display: flex;
@@ -623,7 +625,8 @@ padding: 15px 1.5rem;
     right: 0;
   }
   .founder-name{
-    padding:15px 0px;
+    /* padding:15px 0px; */
+    font-size: 14px;
   }
 }
 
